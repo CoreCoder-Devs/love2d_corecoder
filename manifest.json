@@ -1,0 +1,7 @@
+{
+	"title":"Love2D",
+	"version":"0.0.1",
+	"description":"A lua game programming engine https://love2d.org/",
+	"author":"Hanprogramer",
+	"identifier": "com.hanprogramer.lua2dplugins"
+}
